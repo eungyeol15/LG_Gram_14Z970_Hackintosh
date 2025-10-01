@@ -9,8 +9,9 @@ OpenCore Hackintosh EFI for LG gram 2017 14Z970
 
 ## Hardware
 
+| | | 
+| :--- | :--- |
 | CPU | i5-7200U |
-| :---: | :---: |
 | GPU | Intel HD 620 |
 | RAM | DDR4 8GB 2133Mhz |
 | SSD | HFS256G39(256GB) |
