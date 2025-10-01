@@ -9,22 +9,38 @@ OpenCore Hackintosh EFI for LG gram 2017 14Z970
 
 ## Hardware
 
-<dl>
-  <dt>CPU</dt>
-  <dd>i5-7200U</dd>
-  <dt>GPU</dt>
-  <dd>Intel HD 620</dd>
-  <dt>RAM</dt>
-  <dd>DDR4 8GB 2133Mhz</dd>
-  <dt>SSD</dt>
-  <dd>HFS256G39(256GB)</dd>
-  <dt>Wireless Card</dt>
-  <dd>Intel Wireless-AC 8265</dd>
-  <dt>Audio Codec</dt>
-  <dd>Conexant AC8200</dd>
-  <dt>MicroSD Reader</dt>
-  <dd>Realtek</dd>
-</dl>
+<table>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>i5-7200U</td>
+    </tr>
+    <tr>
+      <td>GPU</td>
+      <td>Intel HD 620</td>
+    </tr>
+    <tr>
+      <td>RAM</td>
+      <td>DDR4 8GB 2133Mhz</td>
+    </tr>
+    <tr>
+      <td>SSD</td>
+      <td>HFS256G39(256GB)</td>
+    </tr>
+    <tr>
+      <td>Wireless Card</td>
+      <td>Intel Wireless-AC 8265</td>
+    </tr>
+    <tr>
+      <td>Audio Codec</td>
+      <td>Conexant AC8200</td>
+    </tr>
+    <tr>
+      <td>MicroSD Reader</td>
+      <td>Realtek</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Working
 
