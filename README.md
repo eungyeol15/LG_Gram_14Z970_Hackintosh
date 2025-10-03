@@ -1,7 +1,7 @@
 # LG_Gram_14Z970_Hackintosh
 OpenCore Hackintosh EFI for LG gram 2017 14Z970
 
-![ex_screenshot](https://github.com/user-attachments/assets/74cfb58c-2c22-4dc8-b726-8c548e172dce)
+![screenshot](https://i.imgur.com/Ud5qpvN.jpeg)
 
 ## Overview
 - Lastest macOS Sonoma
